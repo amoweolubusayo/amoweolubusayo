@@ -5,7 +5,7 @@
 <br />
 I'm Busayo, a Software Developer 🚀🚀. I am also a technical writer sometimes.
 <br/>
-  <img align="right" alt="GIF" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" width="300" height="300" />
+  <img align="right" alt="GIF" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" width="200" height="200" />
   
 **Talking about Personal Stuffs:**
 
