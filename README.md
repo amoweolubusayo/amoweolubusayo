@@ -13,7 +13,7 @@ I'm Busayo, a Software Developer 🚀🚀. I am also a technical writer sometime
 - 🌱 I’m currently learning and contributing to everything web3; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 My twitter is [@AmoweO](https://twitter.com/AmoweO)
-- 📫 My linkedin is [Olubusayo Amowe](https://www.linkedin.com/in/amoweolubusayo)
+- 📫 My discord is [Hi, Busayo](https://discord.com/users/busayo#4524)
 
 **Languages and Tools:**  
 
