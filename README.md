@@ -9,7 +9,7 @@ I'm Busayo, a Software Developer 🚀🚀. I am also a technical writer sometime
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool and taking a program in Fintech:wink:;
+- 👨🏽‍💻 I’m currently working on something cool and taking a Masters degree program in Fintech:wink:;
 - 🌱 I’m currently learning and contributing to everything web3; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 My twitter is [@AmoweO](https://twitter.com/AmoweO)
