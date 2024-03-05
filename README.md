@@ -8,10 +8,11 @@ I'm Busayo, a Software Developer 🚀🚀. I am also a technical writer sometime
   <img align="right" alt="GIF" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" width="200" height="200" />
   
 **Talking about Personal Stuffs:**
-
+- 👨🏽‍💻 Currently work as a .NET Engineer(SRE)
 - 👨🏽‍💻 Msc Fintech(with distinction) from a UK university:wink:;
 - 🌱 I’m currently learning and contributing to everything OS; 
 - 💬 Ask me about anything, I am happy to help;
+- I like to think I love to play with tools. So I can switch context if need be
 - 📫 My twitter is [@AmoweO](https://twitter.com/AmoweO)
 - 📫 My discord is [Hi, Busayo](https://discord.com/users/busayo#4524)
 
