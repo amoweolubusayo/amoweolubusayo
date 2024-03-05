@@ -9,7 +9,7 @@ I'm Busayo, a Software Developer 🚀🚀. I am also a technical writer sometime
   
 **Talking about Personal Stuffs:**
 - 👨🏽‍💻 Currently work as a .NET Engineer(SRE)
-- 👨🏽‍💻 Msc Fintech(with distinction) from a UK university:wink:;
+- 👨🏽‍💻 Msc Fintech(with distinction) from a UK university. Thesis - Integrating Zero-Knowledge in Fintech applications
 - 🌱 I’m currently learning and contributing to everything OS; 
 - 💬 Ask me about anything, I am happy to help;
 - I like to think I love to play with tools. So I can switch context if need be
