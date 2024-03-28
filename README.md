@@ -12,7 +12,7 @@ I'm Busayo, a Software Developer 🚀🚀. I am also a technical writer sometime
 - 👨🏽‍💻 Msc Fintech(with distinction) from a UK university. Thesis - Integrating Zero-Knowledge in Fintech applications
 - 🌱 I’m currently learning and contributing to everything OS; 
 - 💬 Ask me about anything, I am happy to help;
-- I love hackathons and I have won about 3 working in teams - that's just me being modest. They are more than that.
+- I love hackathons and tech events.
 - I like to think I love to play with tools. So I can switch context if need be;
 - 📫 My twitter is [@AmoweO](https://twitter.com/AmoweO)
 - 📫 My discord is [Hi, Busayo](https://discord.com/users/busayo#4524)
