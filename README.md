@@ -8,7 +8,7 @@ I'm Busayo, a Software Developer 🚀🚀. I am also a technical writer sometime
   <img align="right" alt="GIF" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" width="200" height="200" />
   
 **Talking about Personal Stuffs:**
-- 👨🏽‍💻 Currently work as a .NET Engineer(Retired SRE, now SWE)
+- 👨🏽‍💻 Work as a .NET Engineer(Former SRE, Current SWE)
 - 👨🏽‍💻 Msc Fintech(with distinction) from Teeside university, United Kingdom. Thesis - Integrating Zero-Knowledge Proofs in Fintech applications
 - 🌱 I’m currently learning and contributing to everything OS; 
 - 💬 Ask me about anything, I am happy to help;
