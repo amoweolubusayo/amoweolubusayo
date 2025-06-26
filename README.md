@@ -41,6 +41,8 @@ I'm Busayo, a Software Developer 🚀🚀. I am also a technical writer sometime
 
 [![Busayo's github activity graph](https://github-activity-graph-oopa.herokuapp.com/graph?username=amoweolubusayo&theme=redical&hide_border=true)](#!)
 
+[![An image of @amoweolubusayo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amoweolubusayo)](https://holopin.io/@amoweolubusayo)
+
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=redical&hide_border=true)
 
 </div>
